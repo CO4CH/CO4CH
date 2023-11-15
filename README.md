@@ -19,7 +19,8 @@
 - 💡 Me encanta aprender nuevas tecnologías.
 - 👨‍💻 Tengo interés por el desarrollo back-end.
 - 🎮 En mis tiempos libres me gusta jugar videojuegos con amigos y escuchar musica.
-- 🌐 Puedes encontrarme en [Andrés Durán](https://www.linkedin.com/in/andr%C3%A9s-dur%C3%A1n-b4a821232/) para conectarte conmigo.
+- [:linkedin: Puedes encontrarme en Andrés Durán](https://www.linkedin.com/in/andr%C3%A9s-dur%C3%A1n-b4a821232/)
+
 
 
 
