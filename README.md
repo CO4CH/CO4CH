@@ -46,13 +46,14 @@ Aquí hay algunos de los proyectos en los que he estado trabajando:
 
 
 
-## Contáctame 📞
+## Contáctame ☎️
 
 ¡Me encantaría conectar contigo y hablar sobre tecnología, proyectos o cualquier otra cosa relacionada con el desarrollo backend! 
 Puedes encontrarme en:
 
 - LinkedIn: [Andrés Durán](https://www.linkedin.com/in/andr%C3%A9s-dur%C3%A1n-b4a821232/)
-- Correo electrónico: [andresmau300@gmail.com](mailto:andresmau300@gmail.com)
+- ![Correo Electrónico](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-EA4335?logo=gmail&logoColor=white&style=for-the-badge)(mailto:andresmau300@gmail.com)
+
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos. No dudes en seguirme para mantenerte actualizado sobre lo que estoy trabajando.
 <!---
