@@ -1,6 +1,8 @@
-### Hola! 👋👨‍💻,
+# Hola! 👨‍💻👋 Soy @CO4CH
 
 ![Andres Duran](https://github.com/CO4CH/CO4CH/assets/109003491/cf91af7a-da33-485b-a99f-96f882781a38)
+
+
 <!--
 **CO4CH/CO4CH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
