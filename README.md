@@ -14,14 +14,14 @@
   Durante mi formación, descubrí que la parte del desarrollo back-end era la que más me gustaba. Esta experiencia ha sido la base de mi camino en la tecnología y sigue impulsándome a explorar y aprender más spbre este emocionante campo.
 </p>
 
-## Sobre mí
+## Sobre mí 😄
 
 - 💡 Me encanta aprender nuevas tecnologías.
 - 👨‍💻 Tengo interés por el desarrollo back-end.
 - 🎮 En mis tiempos libres me gusta jugar videojuegos con amigos y escuchar musica.
 - 🌐 Puedes encontrarme en [Andrés Durán](https://www.linkedin.com/in/andr%C3%A9s-dur%C3%A1n-b4a821232/) para conectarte conmigo.
 
-## Mis Proyectos Destacados
+## Mis Proyectos Destacados 🌐🖥️
 
 Aquí hay algunos de los proyectos en los que he estado trabajando:
 
@@ -29,7 +29,7 @@ Aquí hay algunos de los proyectos en los que he estado trabajando:
   
 - [Pokemon](https://github.com/CO4CH/PI-Pokemon-main): Este proyecto fue desarrollado durante mi etapa en el bootcamp de Soy Henry. Pokemon es una aplicación de una sola página (SPA) que te permite explorar una gran variedad de pokemons, crear tus propios pokemons y realizar una busqueda de los mismos asi como obtener los detalles de dichos pokemons. ademas puedes ordenar los pokemon por sus nombres o por su fuerza y tambien filtrarlos por sus tipos.
 
-## Tecnologías que actualmente manejo:
+## Tecnologías que actualmente manejo 💻
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
@@ -37,6 +37,7 @@ Aquí hay algunos de los proyectos en los que he estado trabajando:
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 - ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge)
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -44,9 +45,11 @@ Aquí hay algunos de los proyectos en los que he estado trabajando:
 - ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white&style=for-the-badge)
 
 
-## Contáctame
 
-¡Me encantaría conectar contigo y hablar sobre tecnología, proyectos o cualquier otra cosa relacionada con el desarrollo backend y la ciberseguridad! Puedes encontrarme en:
+## Contáctame 📞
+
+¡Me encantaría conectar contigo y hablar sobre tecnología, proyectos o cualquier otra cosa relacionada con el desarrollo backend! 
+Puedes encontrarme en:
 
 - LinkedIn: [Andrés Durán](https://www.linkedin.com/in/andr%C3%A9s-dur%C3%A1n-b4a821232/)
 - Correo electrónico: [andresmau300@gmail.com](mailto:andresmau300@gmail.com)
