@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! 👋👨‍💻,
 
 ![Andres Duran](https://github.com/CO4CH/CO4CH/assets/109003491/cf91af7a-da33-485b-a99f-96f882781a38)
 <!--
