@@ -19,22 +19,12 @@
 - 💡 Me encanta aprender nuevas tecnologías.
 - 👨‍💻 Tengo interés por el desarrollo back-end.
 - 🎮 En mis tiempos libres me gusta jugar videojuegos con amigos y escuchar musica.
-- [:linkedin: Puedes encontrarme en Andrés Durán](https://www.linkedin.com/in/andr%C3%A9s-dur%C3%A1n-b4a821232/)
+- 🌐 Puedes encontrarme en [Andrés Durán](https://www.linkedin.com/in/andr%C3%A9s-dur%C3%A1n-b4a821232/) para conectarte conmigo.
 
+## Mis Proyectos Destacados
 
+Aquí hay algunos de los proyectos en los que he estado trabajando:
 
-
-<!--
-**CO4CH/CO4CH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Caro Mio Pizza - eCommerce](https://github.com/juangui78/pfcaromio): Es un proyecto de eCommerce desarrollado con React, Vite, JavaScript, Node.js, Express, MongoDB y Mongoose. Este proyecto incluye funcionalidades de filtrado, ordenamiento, reseñas, búsqueda de pizzas, y además cuenta con un superadmin. Cada pizzería tiene su propio dashboard, y se incluyen características de pasarela de pagos y un inicio de sesión seguro. Mi principal aporte en este proyecto fue gran parte del backend
+  
+- [Pokemon](https://github.com/CO4CH/PI-Pokemon-main): Este proyecto fue desarrollado durante mi etapa en el bootcamp de Soy Henry. Pokemon es una aplicación de una sola página (SPA) que te permite explorar una gran variedad de pokemons, crear tus propios pokemons y realizar una busqueda de los mismos asi como obtener los detalles de dichos pokemons. ademas puedes ordenar los pokemon por sus nombres o por su fuerza y tambien filtrarlos por sus tipos.
